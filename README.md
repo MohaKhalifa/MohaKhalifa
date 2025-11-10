@@ -1,6 +1,8 @@
 # **Mohamed Khalifa**
-## [Portfolio](https://mohakhalifa.github.io/elgahid/)
-<p style="text-align:center; font-family:'Times New Roman'; font-size: large;">[yes]: <> (https://www.markdownguide.org/basic-syntax/)</p>
+## 
+<p style="text-align:center; font-family:'Times New Roman'; font-size: large;">[Portfolio](https://mohakhalifa.github.io/elgahid/)</p>
+  
+  [yes]: <> (https://www.markdownguide.org/basic-syntax/)
 
 <!--
 **MohaKhalifa/MohaKhalifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
