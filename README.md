@@ -1,5 +1,5 @@
 # **Mohamed Khalifa**
-## (Portfolio)[https://mohakhalifa.github.io/elgahid/]
+## [Portfolio](https://mohakhalifa.github.io/elgahid/)
 [yes]: <> (https://www.markdownguide.org/basic-syntax/)
 
 <!--
