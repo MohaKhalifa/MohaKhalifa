@@ -1,6 +1,6 @@
 # **Mohamed Khalifa**
 ## 
-<p style="text-align:center; font-family:'Times New Roman'; font-size: large;">[Portfolio](https://mohakhalifa.github.io/elgahid/)</p>
+<p style="text-align:center; font-family:'Times New Roman'; font-size: large;"><a href="https://mohakhalifa.github.io/elgahid/" alt="Portfolio">Portfolio</p>
   
   [yes]: <> (https://www.markdownguide.org/basic-syntax/)
 
